@@ -1,6 +1,7 @@
 # Screen capture
 
 **1. Record your computer screen and webcam simultaneously.**
+
 **2. Allow you to customize screen capture and frame rate .**
 
 Screen recording is an excellent way of explaining things (problems or solutions) to other people.
